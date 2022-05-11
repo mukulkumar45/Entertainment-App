@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding-left: 13%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+body{
+    background: linear-gradient(135deg, #3d5fbe, #f74de8);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+div{
+    padding-left: 12px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(180, 226, 223);
+    
+}
+div h1{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+div h3{
+    padding-left: 25%;
+    letter-spacing: 1px;
+    color: blue;
+}
+div h1 u{
+    color: rgb(13, 13, 109);
+}
+div table{
+    font-size: 20px;
+}
+div table input{
+    margin-left: 45%;
+    border-radius: 7px;
+    background-color: cornsilk;
+}
+div table td{
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+div article{
+    
+    
+    font-size: 25px;
+}
+div article{
+    padding-left: 1px;
+    width: 150px;
+    height: 150px;
+    padding-top: 2%;
+    flex-wrap: wrap;
+} 
+div article textarea{
+    padding-left: 5px;
+    font-size: 16px;
+    border: 5px solid rgb(253, 23, 157);
+    font-family: sans-serif;
+
+}   
+div aside{
+    padding: 0;
+
+}
+div aside input{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+div aside button{
+    padding: 10px;
+}

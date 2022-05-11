@@ -1,0 +1,88 @@
+</head>
+<body>
+<div class="wrapper">
+<navbar>
+<img src="" width="75"; height="75" class="img" alt="logo">
+               
+</navbar>
+</div>
+
+<div class="row">
+<div class="col">
+<h1>All Type Entertainment</h1>
+<p>Live happy and entertaining and safe life with us.
+               "One life One rule",
+                "Enjoy it".
+</p>
+ <button class="button">Explore</button>
+
+</div>
+    </div>
+    <div class="container">
+        
+            
+<h5>Music </h5>
+<p>Listen the best one</p>
+<button class="buttom"><div class="top-left"><a href="#"><img src="/home/legender/Pictures/special/s645.jpeg" width="200" height="100">Listen the best one</div></a></button>
+
+        </div>
+    </div>
+    <div class="col">
+        <div class="card2">
+            <h5>Movies</h5>
+            <p>Hollywood,Bollywood and amazing webseries</p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card3">
+            <h5>Games</h5>
+            <p>Play all your favourit games</p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card4">
+            <h5>News</h5>
+            <p>Get Knowledge of the entire world</p>
+        </div>
+    </div>
+     
+    <div class="col">
+        <div class="card5">
+            <h5>Knowledge</h5>
+            <p>Study the way to success</p>
+        </div>
+    </div>
+    
+    <div class="col">
+        <div class="card6">
+            <h5>Social Media</h5>
+            <p>Connect to the World</p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card7">
+            <h5>Bookings</h5>
+            <p>Book tickets , hotels and resturent </p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card8">
+            <h5>Help</h5>
+            <p>Be aware and connect to the protection</p>
+        </div>
+    </div>
+        <nav>
+            
+<button><a href="#">Movies</a></button>
+<button><a href="#">Games</a></button>
+<button><a href="#">Social Media</a></button>
+<button><a href="#">News</a></button>
+<button><a href="#">Knowledge</a></button>
+<button><a href="#">Bookings</a></button>
+<button><a href="#">Help</a></li></button>
+        </nav>
+</body>
+</html>

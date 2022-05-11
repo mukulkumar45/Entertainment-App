@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login page</title>
+        <link rel="stylesheet" type="text/css" href="Login.css">
+    </head>
+    <body>
+        <section>
+            <div class="imgbox">
+                <img src="/home/legender/Pictures/special/s730.jpeg ">
+
+            </div>
+            <div class="loginbox">
+                <div class="formbox">
+                    <h2>Login Here</h2>
+                    <form>
+                        <div class="inputbox">
+                            <span> UserName</span>
+                            <input type="text" name="ZX" required placeholder="Enter your username">
+                        </div>
+                        <div class="inputbox">
+                            <span>Password</span>
+                            <input type="password" name="CV" required placeholder="Enter your Password">
+                        </div>
+                        <div class="remember">
+                            <label><input type="checkbox" name="BN"> Remain me Login</label><br>
+                        </div>
+                        
+                        <div class="inputbox">
+                            <input type="submit" value="Sign in" name="ZM">
+                            
+
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </section>
+        <script>
+            let confirmation = confirm("Are You an User Within Chitkara University?", "Yes/No")
+            if(confirmation){
+                window.alert("You are allowed to login")
+            }
+            else{
+                window.alert("Soory,Only Chitkara Members allowed")
+            }
+        </script>
+    </body>
+</html>
